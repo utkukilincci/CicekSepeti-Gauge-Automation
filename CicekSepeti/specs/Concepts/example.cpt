@@ -1,0 +1,29 @@
+#Sepetim butonuna tikla
+*"1" saniye bekle
+*"sepetim" elementi var mi
+*"sepetim" elementine tikla
+
+#Bos sepette yer alan mesaj ile <text> ayni mi
+*"1" saniye bekle
+*"bosSepetBilgisi" elementi var mi
+*"bosSepetBilgisi" elementinin metni ile <text> ayni mi
+
+#Acilistaki bolge secimini kapat
+*"4" saniye bekle
+*"kapa" elementine tikla
+
+#Gonderim yerine <text> yazarak ilk sonucu sec
+*"2" saniye bekle
+*"gonderimYeriButon" elementine tikla
+*"1" saniye bekle
+*"gonderimYeriText" elementine <text> metnini yaz
+*"2" saniye bekle
+*"gonderimYeriSonuc" listesindeki <text> tikla
+
+#<text> kategorisine tikla ve ilk urunu sepete ekle
+*"2" saniye bekle
+*"ustKategori" listesindeki <text> tikla
+*"urunListesi" listesindeki ilk elemente tikla
+*"3" saniye bekle
+*"sepeteEkleButon" elementine tikla
+*"5" saniye bekle

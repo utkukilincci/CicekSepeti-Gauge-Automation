@@ -1,0 +1,62 @@
+[
+  {
+    "key": "siparis",
+    "value": "//a[@href='/siparis-takip']",
+    "type": "xpath"
+  },
+  {
+    "key": "kapa",
+    "value": "span[class='icon-close']",
+    "type": "css"
+  },
+  {
+    "key": "ustKategori",
+    "value": "main-menu__text",
+    "type": "className"
+  },
+  {
+    "key": "altKategori",
+    "value": "main-submenu__item-link",
+    "type": "className"
+  },
+  {
+    "key": "uyelikButon",
+    "value": "//a[@class='user-menu__link user-process-toggle']",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeGirisi",
+    "value": "//span[text()='Üye Girişi']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetim",
+    "value": "a[href='/sepetim']",
+    "type": "css"
+  },
+  {
+    "key": "araButon",
+    "value": "button[class='js-product-search-button btn product-search__button']",
+    "type": "css"
+  },
+  {
+    "key": "araBildirim",
+    "value": "div[class='modal-body']",
+    "type": "css"
+  },
+  {
+    "key": "gonderimYeriButon",
+    "value": "//span[@class='district-search-button__text js-district-search-button-text empty']",
+    "type": "xpath"
+  },
+  {
+    "key": "gonderimYeriText",
+    "value": "//input[@class='form-control district-search__input']",
+    "type": "xpath"
+  },
+  {
+  "key": "gonderimYeriSonuc",
+  "value": "district-search__result",
+  "type": "className"
+}
+]

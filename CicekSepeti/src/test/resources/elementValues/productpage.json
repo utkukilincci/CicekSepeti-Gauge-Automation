@@ -1,0 +1,12 @@
+[
+  {
+    "key": "urunListesi",
+    "value": "products__item-inner",
+    "type": "className"
+  },
+  {
+    "key": "sepeteEkleButon",
+    "value": "span[class='product__action-button-text']",
+    "type": "css"
+  }
+]

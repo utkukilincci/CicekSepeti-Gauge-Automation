@@ -1,0 +1,17 @@
+[
+  {
+    "key": "emailGiris",
+    "value": "EmailLogin",
+    "type": "id"
+  },
+  {
+    "key": "sifreGiris",
+    "value": "Password",
+    "type": "id"
+  },
+  {
+    "key": "girisButon",
+    "value": "//button[@type='button']",
+    "type": "xpath"
+  }
+]
